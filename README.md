@@ -25,7 +25,7 @@ In this project we implemented 4 algorithms for curve fitting,
 
 ## Procedure to run the Codes:
 Run the Python scripts in the current directory which contains all the code.
- - LS, TLS and LSR
+ - OLS, TLS and LSR
  
    ```
    python3 leastSquares.py 
